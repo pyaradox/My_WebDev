@@ -1,0 +1,6 @@
+# Introduction :-
+
+SVGs are a scalable image format, which means they will easily scale to any size
+and retain their quality without increasing their filesize.
+They’re also very useful if you need to create or modify your images programmatically,
+because you can change their properties through CSS and JavaScript.
